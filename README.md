@@ -2,8 +2,10 @@
 # Objectives
 
 This project’s objectives are similar to all this first year’s objectives: Rigor, use of C, use of basic algorithms, information research, data mining etc.
+
 As a graphic design project, Wolf3D will enable you to solidify your skills in this area: windows, colors, events, fill shapes etc.
 To conclude Wolf3D is a remarkable playground to explore the playful practical ap- plications of mathematics without having to understand the specifics. John Carmack is undoubtedly a genius. He was one of the first programmers to think about these appli- cations and remains famous for them today. With the help of the numerous documents available on the internet, you will use mathematics as a tool to create elegant and efficient algorithms.
+
 Imagine yourself in 1991. You are working for a SME in Mesquite TX; you love to watch gory movies and listen to Heavy Metal music; GPU and hardware acceleration do not yet exist; and you will become a Video-Game Rock Star in less than 2 years. In two words, HAVE FUN!
 
 # General Instructions
@@ -57,6 +59,7 @@ Imagine yourself in 1991. You are working for a SME in Mesquite TX; you love to 
 # Mandatory part
 
 The fun part of this project is the bonuses. But before you can start hunting Nazis, you need to ace totally and completely the mandatory part.
+
 You must create a 3D graphically “realistic” representation that we could have from inside a maze in a subjective view. You need to create this representation using the Ray-Casting principles mentioned earlier.
 
 • You can choose the size and the shape of your labyrinth.
