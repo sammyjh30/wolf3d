@@ -35,21 +35,21 @@ Imagine yourself in 1991. You are working for a SME in Mesquite TX; you love to 
 
 • Within the mandatory part, you are allowed to use only the following libc functions:
 
-  ◦ open
+    ◦ open
   
-  ◦ read
+    ◦ read
   
-  ◦ write ◦ close ◦ malloc ◦ free
+    ◦ write ◦ close ◦ malloc ◦ free
   
-  ◦ perror
+    ◦ perror
   
-  ◦ strerror
+    ◦ strerror
   
-  ◦ exit
+    ◦ exit
   
-  ◦ All functions of the math library (-lm man man 3 math)
+    ◦ All functions of the math library (-lm man man 3 math)
   
-  ◦ All functions of the MinilibX or their equivalent in another graphic library.
+    ◦ All functions of the MinilibX or their equivalent in another graphic library.
   
 • You are allowed to use other functions or other librairies to complete the bonus part as long as their use is justified during your defense. Be smart!
 
